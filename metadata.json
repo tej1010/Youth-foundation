@@ -1,0 +1,6 @@
+{
+  "name": "Youth Foundation Coaching",
+  "description": "Premium coaching institute for SSC, Bank, Railway, Steno & Delhi Police in Jaipur, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
